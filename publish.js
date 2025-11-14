@@ -40,7 +40,7 @@ var urls=[
 	'vvvypik.cc',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://missavt.com";
 
 var newestUrls = [];
 
@@ -50,10 +50,12 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong.github.io',
+	'https://missavt.github.io/',
+	'https://missavt.netlify.app/',
+	'https://missavt.pages.dev/',
 ];
 var foreverUrls = [
-    'https://91nt.net',JumpPage
+    'https://missavo.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
