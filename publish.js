@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'vvvypik.cc',
+	'qaywwbrj.com',
 ];
                                                                                                                   
 var JumpPage="https://missavt.com";
@@ -53,6 +53,7 @@ var otherUrls = [
 	'https://missavt.github.io/',
 	'https://missavt.netlify.app/',
 	'https://missavt.pages.dev/',
+	'https://t.me/missav188',
 ];
 var foreverUrls = [
     'https://missavo.com',JumpPage
